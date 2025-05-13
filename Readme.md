@@ -4,10 +4,9 @@ Este proyecto es una aplicación web interactiva desarrollada con **Streamlit**,
 
 ## Funcionalidades
 
-- Visualización de un histograma de precios de vehículos.
-- Visualización de un histograma de años de fabricación.
-- Interfaz web simple e intuitiva con botones interactivos.
-- Desarrollada en Python con las librerías `pandas`, `plotly-express` y `streamlit`.
+- Visualización de los primeros 50 datos del dataset
+- Visualización de un histograma de precios de vehículos con variacion de rangos interactivos.
+- Visualización de un gráfico de dispersión de precio vs kilometraje (por tipo de transmisión) con una casilla de verificación
 
 ## Requisitos
 
